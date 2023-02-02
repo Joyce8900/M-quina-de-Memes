@@ -35,7 +35,7 @@ Projeto que facilita a criação e produção de memes, de formar rápida e fác
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/8Bn7HIOHhgvyunnZ0BDnXn/Habits-(e)-(Community)?t=4FteIj2RLcdrLIYb-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/jgBWa7wQj752NdG7fM3sIN/Untitled?node-id=0%3A1&t=Ln8NrkcE29uKnWAX-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
